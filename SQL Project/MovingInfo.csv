@@ -1,0 +1,108 @@
+JobNumber,PickUpNeighborhood,PickUpState,DropOffNeighborhood,DropOffState,StairsOnPickUp,StairsOnDropOff,Review
+1,Soho,New York,East Village,New York,No,Yes,5
+2,Dixwell,CT,Soho,NY,No,No,4
+3,Upper East Side,NY,Tribeca,NY,Yes,Yes,4
+4,Chelsea,NY,Harlem,NY,Yes,Yes,4
+5,Soho,NY,Soho,NY,No,No,5
+6,Midtown,NY,Chelsea,NY,Yes,No,5
+7,Tribeca,NY,Upper East Side,NY,No,Yes,5
+8,Harlem,NY,Brooklyn Heights,NY,Yes,No,5
+9,Soho,NY,Dixwell,CT,No,Yes,5
+10,East Village,NY,Financial District,NY,Yes,No,4
+11,Chelsea,NY,Midtown,NY,No,No,5
+12,Greenwich Village,NY,Tribeca,NY,Yes,Yes,4
+13,Financial District,NY,Harlem,NY,No,No,5
+14,Upper East Side,NY,Soho,NY,Yes,Yes,5
+15,Brooklyn Heights,NY,East Village,NY,No,Yes,5
+16,South Philadelphia,PA,South Philadelphia,PA,Yes,No,5
+17,Bayonne,NJ,Bayonne,NJ,No,Yes,5
+18,Harlem,NY,Brooklyn Heights,NY,Yes,No,4
+19,Greenwich Village,NY,Greenwich Village,NY,No,Yes,5
+20,South Philadelphia,PA,Financial District,NY,Yes,No,4
+21,Chelsea,NY,Chelsea,NY,No,No,5
+22,Greenwich Village,NY,Tribeca,NY,Yes,Yes,4
+23,Financial District,NY,Harlem,NY,No,No,5
+24,Upper East Side,NY,Soho,NY,Yes,Yes,1
+25,Brooklyn Heights,NY,East Village,NY,No,Yes,5
+26,Midtown,NY,Chelsea,NY,Yes,No,4
+27,Tribeca,NY,Upper East Side,NY,No,Yes,5
+28,Harlem,NY,Brooklyn Heights,NY,Yes,No,1
+29,Soho,NY,Greenwich Village,NY,No,Yes,5
+30,East Village,NY,Financial District,NY,Yes,No,4
+31,Harlem,NY,Tribeca,NY,No,Yes,5
+32,Chelsea,NY,Tribeca,NY,Yes,Yes,4
+33,Tribeca,NY,Tribeca,NY,Yes,No,5
+34,Chelsea,NY,Upper East Side,NY,Yes,No,4
+35,East Village,NY,Financial District,NY,No,No,5
+36,Tribeca,NY,Chelsea,NY,Yes,Yes,5
+37,East Village,NY,Tribeca,NY,Yes,Yes,5
+38,Greenwich Village,NY,Midtown,NY,No,Yes,5
+39,Chelsea,NY,Harlem,NY,Yes,Yes,5
+40,Jersey City,NJ,Tribeca,NY,No,No,5
+41,Greenwich Village,NY,Midtown,NY,Yes,No,5
+42,Tribeca,NY,Brooklyn Heights,NY,Yes,No,5
+43,Soho,NY,Financial District,NY,Yes,No,5
+44,Chelsea,NY,Chelsea,NY,No,Yes,5
+45,Midtown,NY,Soho,NY,No,Yes,5
+46,Brooklyn Heights,NY,Financial District,NY,No,Yes,4
+47,Chelsea,NY,Soho,NY,No,Yes,5
+48,Soho,NY,East Village,NY,No,Yes,5
+49,Financial District,NY,Upper East Side,NY,Yes,Yes,4
+50,Brooklyn Heights,NY,Tribeca,NY,Yes,No,5
+51,Upper East Side,NY,Chelsea,NY,Yes,Yes,3
+52,Soho,NY,Soho,NY,No,No,5
+53,Greenwich Village,NY,Greenwich Village,NY,No,Yes,5
+54,Chelsea,NY,Upper East Side,NY,Yes,No,5
+55,Midtown,NY,Tribeca,NY,Yes,Yes,5
+56,Harlem,NY,Chelsea,NY,No,Yes,3
+57,Tribeca,NY,Soho,NY,No,No,5
+58,Harlem,NY,Brooklyn Heights,NY,No,No,5
+59,Greenwich Village,NY,Tribeca,NY,Yes,No,5
+60,Financial District,NY,Harlem,NY,No,No,1
+61,Greenwich Village,NY,Financial District,NY,No,Yes,5
+62,Midtown,NY,Financial District,NY,No,Yes,5
+63,Harlem,NY,Tribeca,NY,Yes,Yes,5
+64,Soho,NY,Greenwich Village,NY,Yes,No,4
+65,Chelsea,NY,Upper East Side,NY,No,Yes,5
+66,Chelsea,NY,Financial District,NY,Yes,Yes,5
+67,Financial District,NY,East Village,NY,Yes,No,5
+68,Hoboken,NJ,Soho,NY,No,Yes,5
+69,Upper East Side,NY,Upper East Side,NY,Yes,Yes,5
+70,Midtown,NY,Soho,NY,No,Yes,5
+71,East Village,NY,Upper East Side,NY,Yes,No,5
+72,Chelsea,NY,Harlem,NY,No,No,5
+73,Greenwich Village,NY,Tribeca,NY,Yes,No,5
+74,Chelsea,NY,Financial District,NY,Yes,Yes,5
+75,Brooklyn Heights,NY,Tribeca,NY,No,No,5
+76,Upper East Side,NY,Chelsea,NY,Yes,Yes,3
+77,Soho,NY,Greenwich Village,NY,Yes,No,5
+78,Soho,NY,Hoboken,NJ,Yes,No,2
+79,Soho,NY,Financial District,NY,Yes,No,5
+80,Harlem,NY,Harlem,NY,Yes,No,5
+81,Tribeca,NY,Tribeca,NY,No,No,5
+82,Soho,NY,Soho,NY,No,Yes,1
+83,Jersey City,NJ,Brooklyn Heights,NY,Yes,Yes,5
+84,Greenwich Village,NY,Harlem,NY,No,No,5
+85,Midtown,NY,East Village,NY,No,Yes,5
+86,East Village,NY,Financial District,NY,No,Yes,5
+87,Tribeca,NY,Financial District,NY,No,No,5
+88,Greenwich Village,NY,Brooklyn Heights,NY,Yes,No,5
+89,Midtown,NY,Midtown,NY,Yes,Yes,5
+90,Harlem,NY,Greenwich Village,NY,No,Yes,5
+91,Midtown,NY,Financial District,NY,No,Yes,5
+92,Greenwich Village,NY,Brooklyn Heights,NJ,No,No,5
+93,Midtown,NY,Harlem,NY,Yes,Yes,3
+94,East Village,NY,East Village,NY,No,No,3
+95,Greenwich Village,NY,Soho,NY,Yes,Yes,5
+96,Greenwich Village,NY,Harlem,NY,Yes,No,5
+97,Chelsea,NY,Greenwich Village,NY,No,Yes,5
+98,Tribeca,NY,Upper East Side,NY,Yes,No,5
+99,Tribeca,NY,Soho,NY,Yes,Yes,5
+100,Tribeca,NY,Midtown,NY,No,No,5
+101,Harlem,NY,Chelsea,NY,Yes,Yes,4
+102,Chelsea,NY,Soho,NY,Yes,Yes,5
+103,Tribeca,NY,Soho,NY,Yes,Yes,5
+104,Soho,NY,Greenwich Village,NY,No,Yes,5
+105,Soho,NY,Midtown,NY,No,Yes,5
+106,Midtown,NY,Midtown,NY,No,Yes,5
+107,Financial District,NY,Financial District,NY,No,No,5
